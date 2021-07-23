@@ -1,0 +1,59 @@
+.btn {
+    margin-bottom: 7px;
+    margin-left: 10px;
+}
+
+
+#bottone_accedi {
+    background: none;
+    border: 2px solid #2ecc71;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+#bottone_accedi:hover {
+    background: #2ecc71
+}
+
+#bottone_logout {
+    background: none;
+    border: 2px solid #b82525;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+#bottone_logout:hover {
+    background: #b82525;
+}
+
+#bottone_registrati {
+    background: none;
+    border: 2px solid #ff5303;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+#bottone_registrati:hover {
+    background: #ff5303;
+}
+
+.navbar li {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-align: center;
+
+}
+
+.navbar li a:hover {
+    background: rgba(255, 255, 255, 0.12);
+}

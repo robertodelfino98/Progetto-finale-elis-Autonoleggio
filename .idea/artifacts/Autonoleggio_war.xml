@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Autonoleggio:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Autonoleggio</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Autonoleggio-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Autonoleggio:war exploded" />
+    </root>
+  </artifact>
+</component>

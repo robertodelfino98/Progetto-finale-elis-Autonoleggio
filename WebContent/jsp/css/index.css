@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background: linear-gradient(to right, #1d1919, #444343)
+}
+
+#container-video {
+    align-content: center;
+    text-align: center;
+}
+
+
+.form-select {
+
+}
+
+#row-form {
+    position: relative;
+}
+
+.form-submit {
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+}
+
+.selectbox {
+    margin-bottom: 100px;
+    display: inline-block;
+}
+
+
+#bottone_cerca_automobile {
+    background: none;
+    border: 2px solid #2ecc71;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+#bottone_cerca_automobile:hover {
+    background: #2ecc71
+}
+
+input {
+    margin-top: 10px;
+}
